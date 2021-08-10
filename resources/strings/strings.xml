@@ -1,3 +1,5 @@
 <strings>
     <string id="AppName">Strider</string>
+    <string id="spm_label">Steps Per Minute</string>
+    <string id="vibeStrength_label">Vibration Strength</string>
 </strings>

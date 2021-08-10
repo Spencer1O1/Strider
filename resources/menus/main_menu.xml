@@ -1,0 +1,4 @@
+<menu id="MainMenu">
+    <menu-item id="StepsPM" label="@Strings.spm_label" />
+    <menu-item id="VibrationStrength" label="@Strings.vibeStrength_label" />
+</menu>
